@@ -45,7 +45,7 @@ This bot has been created using [Bot Framework](https://dev.botframework.com), i
 
 This bot was generated using the Empty bot template.  Unmodified, it's not practical to deploy an empty bot to Azure, as it doesn't have any conversational behavior yet.
 After making modifications to the bot and testing it locally, you can deploy it to Azure to make it accessible from anywhere.
-To learn how, see [Deploy your bot to Azure](https://aka.ms/azuredeployment) for a complete set of deployment instructions.
+To learn how, see [Deploy your bot to Azure](https://aka.ms/azuredeployment) for a complete set of deployment instructions. Test
 
 ## Further reading
 
@@ -62,4 +62,6 @@ To learn how, see [Deploy your bot to Azure](https://aka.ms/azuredeployment) for
 - [Channels and Bot Connector Service](https://docs.microsoft.com/en-us/azure/bot-service/bot-concepts?view=azure-bot-service-4.0)
 - [Restify](https://www.npmjs.com/package/restify)
 - [dotenv](https://www.npmjs.com/package/dotenv)
+# referral-bot
+# referral-bot
 # referral-bot
